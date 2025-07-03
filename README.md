@@ -16,7 +16,7 @@
 - Created an AWS Organization with Management as the root account.
 - Invited the Production account to join and configured role delegation using OrganizationAccountAccessRole.
 - Tested Switch Role functionality from Management to Production.
-- Created a Development account (pending quota increase approval).
+- Created a Development account after increasing the account quota through a service request.
 - Set up organizational units (OUs) for Production and Development and moved accounts accordingly.
 - Tested Service Control Policies (SCPs) by restricting S3 actions in the Production OU and validated enforcement.
 
