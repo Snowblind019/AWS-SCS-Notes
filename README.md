@@ -1,3 +1,13 @@
+# AWS Certified Security Specialty (SCS-C02) Notes
+
+Welcome to my AWS SCS notes repository.
+
+Here, I document my progress and hands-on work as I prepare for the **AWS Certified Security Specialty (SCS-C02)** certification.
+
+I am currently following **Adrian Cantrill’s AWS SCS course**, performing practical labs and configurations in real AWS accounts to build strong hands-on skills alongside theoretical knowledge.
+
+---
+
 ## Current Progress
 
 ### ✅ Module 1 – Course Fundamentals and AWS Account Setup
