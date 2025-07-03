@@ -1,13 +1,3 @@
-# AWS Certified Security Specialty (SCS-C02) Notes
-
-Welcome to my AWS SCS notes repository.
-
-Here, I document my progress and hands-on work as I prepare for the **AWS Certified Security Specialty (SCS-C02)** certification.
-
-I am currently following **Adrian Cantrill’s AWS SCS course**, performing practical labs and configurations in real AWS accounts to build strong hands-on skills alongside theoretical knowledge.
-
----
-
 ## Current Progress
 
 ### ✅ Module 1 – Course Fundamentals and AWS Account Setup
@@ -20,6 +10,36 @@ I am currently following **Adrian Cantrill’s AWS SCS course**, performing prac
 - Created account aliases and IAM users with AdministratorAccess policies to eliminate root usage for daily operations.
 - Practiced security access key management for CLI use cases.
 - Installed and configured the AWS CLI on Linux with named profiles for both accounts to enable streamlined multi-account management.
+
+### ✅ Module 2 – Management and Security Governance
+
+- Created an AWS Organization with Management as the root account.
+- Invited the Production account to join and configured role delegation using OrganizationAccountAccessRole.
+- Tested Switch Role functionality from Management to Production.
+- Created a Development account (pending quota increase approval).
+- Set up organizational units (OUs) for Production and Development and moved accounts accordingly.
+- Tested Service Control Policies (SCPs) by restricting S3 actions in the Production OU and validated enforcement.
+
+### 🔄 Module 3 – [To Be Documented]
+
+- Notes and labs for this module will be added as I progress.
+
+### 🔄 Module 4 – [To Be Documented]
+
+- Notes and labs for this module will be added as I progress.
+
+### 🔄 Module 5 – [To Be Documented]
+
+- Notes and labs for this module will be added as I progress.
+
+### 🔄 Module 6 – [To Be Documented]
+
+- Notes and labs for this module will be added as I progress.
+
+### 🔄 Module 7 – [To Be Documented]
+
+- Notes and labs for this module will be added as I progress.
+
 
 ---
 
